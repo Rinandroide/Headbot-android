@@ -15,4 +15,4 @@ Open the app and grant camera permission. You must give access to camera because
 <br>
 # Step 4
 On the app go to settings and insert the ip address of the machine you want to control. Then tap on CONNECT to enstablish an OSC connection through port 3000. <br>
-N.B. The receiver patch must be opened before enstablish connection.
+N.B. The receiver patch must be opened before enstablish connection. Ensure that android device and host machine are on the same network. 
