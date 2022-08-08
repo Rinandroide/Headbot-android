@@ -4,7 +4,7 @@ Receiver patches for the android application Headbot.
 ![alt text](https://github.com/Rinandroide/Headbot-android/blob/main/headbot_logo.png?raw=true)
 <br>
 # Step 1
-Clone this repository on your machine and open one of the receiver patch examples.
+Clone this repository on your machine and open one of the receiver patch examples to play with Max, PureData or Processing.
 <br>
 # Step 2
 On your Android device - Go to Google Play Store and download the <i>Headbot</i> app. <br>
