@@ -7,8 +7,8 @@ Receiver patches for the android application Headbot.
 Clone this repository on your machine and open one of the receiver patch examples to play with Max, PureData or Processing.
 <br>
 # Step 2
+*** the app is temporarily unavailable *** 
 On your Android device - Go to Google Play Store and download the <i>Headbot</i> app. <br>
-https://play.google.com/store/apps/details?id=com.rinopetrozziello.headbot
 <br>
 # Step 3
 Open the app and grant camera permission. You must give access to camera because it is needed by face detector.
