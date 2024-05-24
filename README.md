@@ -7,7 +7,7 @@ Receiver patches for the android application Headbot.
 Clone this repository on your machine and open one of the receiver patch examples to play with Max, PureData or Processing.
 <br>
 # Step 2
-*** the app is temporarily unavailable ***<br> 
+*** The app is temporarily unavailable ***<br> 
 On your Android device - Go to Google Play Store and download the <i>Headbot</i> app. <br>
 <br>
 # Step 3
